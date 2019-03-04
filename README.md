@@ -1,9 +1,7 @@
 # OS_Linux_FileSystem_Design
-Design my filesystem based on 100M space
+- Design my filesystem based on 100M space
 
-Develop Environment --Xcode C++
-
-
+- Develop Environment --Xcode C++
 
 
  ## 磁盘空间分配
@@ -132,7 +130,7 @@ Develop Environment --Xcode C++
 
 任务进度|code|test
 --|:--:|--:
-Design mem|[done]|—---
+Design mem|[done]|---
 superblock|[done]|[done]
 datablock|[done]|[done]
 inode|[done]|[done]
